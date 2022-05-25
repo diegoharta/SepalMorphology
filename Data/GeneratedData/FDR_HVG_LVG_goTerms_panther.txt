@@ -1,0 +1,18 @@
+GO biological process complete	top5	top5to10	top10to15	bottom85yo90	bottom90to95	bottom5
+cellular process	1.00	1.00	1.00	1.00	3.44E-02	2.97E-13
+metabolic process	1.00	1.00	1.00	1.00	1.00	1.71E-09
+vesicle-mediated transport	1.00	1.00	1.00	1.00	1.00	2.64E-09
+cellular localization	1.00	1.00	1.00	1.60E-02	3.93E-02	6.09E-07
+Golgi vesicle transport	1.00	1.00	1.00	1.00	8.18E-04	1.00
+regulation of protein metabolic process	1.00	1.00	1.00	1.00	3.58E-02	1.00
+membrane organization	1.00	1.00	1.00	1.00	3.94E-02	1.00
+mRNA processing	1.00	1.00	1.00	1.00	4.16E-02	1.00
+gene expression	1.00	1.00	1.00	1.91E-03	1.00	1.00
+cell wall organization or biogenesis	1.00	1.41E-04	2.12E-02	1.00	1.00	1.00
+carbohydrate metabolic process	1.00	1.30E-04	3.12E-02	1.00	1.00	1.00
+defense response	2.99E-17	1.00	1.00	1.00	1.00	1.00
+response to wounding	1.02E-20	1.00	1.00	1.00	1.00	1.00
+response to lipid	9.14E-21	1.00	1.00	1.00	1.00	1.00
+response to stress	6.62E-45	1.00	1.00	1.00	1.00	1.00
+response to chemical	4.12E-48	4.07E-08	1.00	1.00	1.00	1.00
+response to stimulus	1.16E-49	4.51E-08	2.09E-02	1.00	1.00	1.00
